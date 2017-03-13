@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="simpl_ekf" type="simpl_ekf" name="simpl_ekf" output="screen"/>
+</launch>
