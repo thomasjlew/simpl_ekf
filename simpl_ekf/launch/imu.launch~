@@ -1,3 +1,0 @@
-<launch>
-    <node pkg="amber_vins" type="amber_vins_node" name="msckf_vins" output="screen"/>
-</launch>
